@@ -23,4 +23,3 @@ avg()
 print("Thankyou!")
 avg()
 avg()
-
